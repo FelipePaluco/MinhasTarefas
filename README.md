@@ -17,10 +17,9 @@
 
 ## 🔎 Features
 
-> 💸 Registre uma nova tarefa. <br>👀 Consulte suas tarefas pendentes ou realizadas.<br>✔️ Marque as que você já realizou.<br>
-<br/><br/>
-<a href="https://felipepaluco.github.io/Expense-Management-App/">Click here to check it out!</a>
+> ➕ Registre uma nova tarefa. <br/>👀 Consulte suas tarefas pendentes ou realizadas.<br/>✔️ Marque as que você já realizou.<br/>
 
+<br/><br/>
 ## 🛠 Features planejadas:
 
 > 📃 Criar a opção de colocar uma tarefa como pendente.
