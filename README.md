@@ -26,5 +26,5 @@
 
 ## 👁️ Preview:
 
-![](tarefasapp.gif)
+![](tarefasgif.gif)
 
