@@ -22,7 +22,7 @@
 <br/><br/>
 ## 🛠 Features planejadas:
 
-> 📃 Criar a opção de colocar uma tarefa como pendente.
+> 📃 Criar a opção de colocar uma tarefa como pendente.<br/>
 > 👤 Criar um sistema de login e assimilar as tarefas por clientes.
 
 ## 👁️ Preview:
