@@ -21,6 +21,19 @@
 
 <br/><br/>
 
+## 💾 Banco de Dados
+
+> Importe o db_tarefas.sql para obter a estrutura do banco de dados necessário para a aplicação.
+
+<b>Para fazer adicionar novos usuários, considere executar a seguinte query no seu banco de dados:</b>
+```
+INSERT INTO `tb_usuarios`(`NOME`, `EMAIL`, `SENHA`) VALUES ('NOME','EMAIL','SENHA')
+```
+* Por padrão, o banco de dados já vem com o usuário <B>teste@teste.com</B> e senha <B>teste</B>
+
+
+<br/><br/>
+
 ## 👁️ Preview:
 
 ![](tarefasgif.gif)
