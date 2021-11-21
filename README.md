@@ -25,12 +25,13 @@
 
 <b>Importe o db_tarefas.sql para obter a estrutura do banco de dados necessário para a aplicação.</b><br/>
 
-Pra fazer adicionar novos usuários, considere executar a seguinte query no seu banco de dados:
+Pra fazer adicionar novos usuários, considere executar a seguinte query no seu banco de dados *:
+
 ```
 INSERT INTO `tb_usuarios`(`NOME`, `EMAIL`, `SENHA`) VALUES ('NOME','EMAIL','SENHA')
 ```
 <br/>
-> * Por padrão, o banco de dados já vem com o usuário <B>teste@teste.com</B> e senha <B>teste</B>
+* Por padrão, o banco de dados já vem com o usuário <B>teste@teste.com</B> e senha <B>teste</B>
 
 
 <br/><br/>
