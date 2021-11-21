@@ -31,7 +31,7 @@ Pra fazer adicionar novos usuários, considere executar a seguinte QUERY no seu 
 INSERT INTO `tb_usuarios`(`NOME`, `EMAIL`, `SENHA`) VALUES ('NOME*','EMAIL*','SENHA*')
 ```
 <br/>
-Por padrão, o banco de dados já vem com o usuário <B>teste@teste.com</B> e senha <B>teste</B>.<br/>
+Por padrão, o banco de dados já vem com o usuário <B>teste@teste.com</B> e senha <B>teste</B>.<br/><br/>
 * Ao executar esta QUERY, altere os valores que contém os asteriscos pelos valores desejados correspondentes aos campos de Nome, Email e Senha.
 
 
