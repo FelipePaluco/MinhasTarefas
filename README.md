@@ -17,7 +17,7 @@
 
 ## 🔎 Features
 
-> ➕ Registre uma nova tarefa. <br/>👀 Consulte suas tarefas pendentes ou realizadas.<br/>✔️ Marque as que você já realizou.<br/>📃 Criar a opção de colocar uma tarefa como pendente.<br/>👤 Criar um sistema de Login e assimilar as tarefas por usuários.
+> ➕ Registre uma nova tarefa. <br/>👀 Consulte suas tarefas pendentes ou realizadas.<br/>✔️ Marque as que você já realizou.<br/>📃 Marque as que estão pendentes ao invés de realizadas.<br/>👤 Tenha uma conta própria e tenha suas tarefas apenas suas.
 
 <br/><br/>
 
