@@ -19,7 +19,7 @@ Um Simples sistema de tarefas em PHP (POO) e MySQL, utilizando PDO.
 
 ➕ Registre uma nova tarefa. <br/>👀 Consulte suas tarefas pendentes ou realizadas.<br/>✔️ Marque as que você já realizou ou que ainda estão pendentes.<br/>👤 Tenha uma conta própria e tenha tarefas apenas suas.
 
-<br/><br/>
+<br/>
 
 ## 💾 Banco de Dados
 
