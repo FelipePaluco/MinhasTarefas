@@ -17,7 +17,7 @@
 
 ## 🔎 Features
 
-> ➕ Registre uma nova tarefa. <br/>👀 Consulte suas tarefas pendentes ou realizadas.<br/>✔️ Marque as que você já realizou.<br/>📃 Marque as que estão pendentes ao invés de realizadas.<br/>👤 Tenha uma conta própria e tenha suas tarefas apenas suas.
+> ➕ Registre uma nova tarefa. <br/>👀 Consulte suas tarefas pendentes ou realizadas.<br/>✔️ Marque as que você já realizou ou que ainda estão pendentes.<br/>👤 Tenha uma conta própria e tenha tarefas apenas suas.
 
 <br/><br/>
 
