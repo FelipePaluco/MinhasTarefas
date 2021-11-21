@@ -3,6 +3,7 @@
 class Tarefa { // Criando o modelo de uma tarefa.
     private $id;
     private $id_status;
+    private $id_usuario;
     private $tarefa;
     private $data_cadastro;
 
