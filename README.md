@@ -25,7 +25,7 @@ Um Simples sistema de tarefas em PHP (POO) e MySQL, utilizando PDO.
 
 <b>Importe o db_tarefas.sql para obter a estrutura do banco de dados necessário para a aplicação.</b><br/>
 
-Pra fazer adicionar novos usuários, considere executar a seguinte QUERY no seu banco de dados:
+Para adicionar novos usuários, considere executar a seguinte QUERY no seu banco de dados:
 
 ```
 INSERT INTO `tb_usuarios`(`NOME`, `EMAIL`, `SENHA`) VALUES ('NOME*','EMAIL*','SENHA*')
